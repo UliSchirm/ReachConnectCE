@@ -16,6 +16,8 @@ This software runs on Windows CE based handheld devices and collects coordinates
 * Run ReachConnectCE by clicking the file "ReachConnectCE.exe".
 
 ### Using ReachConnectCE
+
+![HC_20190930_090152](https://user-images.githubusercontent.com/21182528/65902356-879ac480-e3ba-11e9-8b6a-19cd81ec447f.jpg)
 * When starting ReachConnectCE, first another software will launch in background, it is called “HookKeys”. HookKeys enables you to conveniently toggle between ReachConnectCE and TopSURV by simply pressing the “Home” button on FC-200. It also shows/hides the software input panel (keyboard) by pressing the “Down” button.
 * After ReachConnectCE is started, it will try to establish a Bluetooth connection to Reach RS+, which is defined by the MAC address in “mac.txt”.
 * When Bluetooth connection is established, coordinates will be transformed to UTM, which is most common at least among Germany when performing surveying tasks. UTM coordinates and heights are shown in live view. UTM zone is also calculated and shown, as well as the solution status “Singe”, “Float” or “Fix”.
