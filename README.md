@@ -23,7 +23,6 @@ This software runs on Windows CE based handheld devices and collects coordinates
 * After ReachConnectCE is started, it will try to establish a Bluetooth connection to Reach RS+, which is defined by the MAC address in “mac.txt”.
 * When Bluetooth connection is established, UTM zone is shown, as well as the solution status “Singe”, “Float” or “Fix”. Coordinates will be transformed to UTM, which is most common at least among Germany when performing surveying tasks. UTM coordinates and heights are shown in live view.
 * If you want to improve accuracy of position data, you can average coordinates and heights over any period of time. To do so, press the “Start” button. Now averaged position data is presented and a timer shows the averaging time in seconds. When the solution is “Fix”, no improvement will be achieved after a period of about 40 seconds, which you can tell from the third decimal place (mm) not changing anymore.
-
 <img align="right" src="https://user-images.githubusercontent.com/21182528/65902356-879ac480-e3ba-11e9-8b6a-19cd81ec447f.jpg">
 
 * If a “Fix” position is lost and solution downgrades to “Float” or “Singe”, averaging will stop and a warning is shown. This prevents collecting position data with a quality worse than “Fix”.
