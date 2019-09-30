@@ -1,5 +1,5 @@
 # ReachConnectCE
-### Live transfer of coordinates from Reach RS+ to Topcon FC-200 field computer via Bluetooth. Transformation from latitude/longitude to UTM. Further transfer of data to TopSURV 8 while performing resection of an optical total station.
+### Live transfer of coordinates from Reach RS+ GNSS receiver to Topcon FC-200 field computer via Bluetooth. Transformation from latitude/longitude to UTM. Further transfer of data to TopSURV 8 while performing resection of an optical total station.
 
 ![CF-200](https://user-images.githubusercontent.com/21182528/65868490-a1b3b300-e378-11e9-9165-5073fd31eb14.jpg)
 
