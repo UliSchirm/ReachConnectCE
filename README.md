@@ -11,6 +11,7 @@ ReachConnectCE is optimized for Topcon FC-200 field computers and the TopSURV 8 
 ### System requirements
 * ReachConnectCE.exe needs .NET Compact Framework 3.5 or newer to run. You need to install .NET Compact Framework 3.5 on FC-200 first. [Microsoft .NET Compact Framework 3.5](https://www.microsoft.com/en-us/download/details.aspx?id=65)
 * Your device needs an active Bluetooth radio.
+* Emlid Reach RS+ GNSS receiver (Although not tested, a Reach RS2 receiver will most probably be just fine as well).
 
 ### Installing and Setting Up ReachConnectCE
 * Copy all four files from folder “Program Files Windows CE” to any location on the field computer, for example “C:\Program Files\ReachConnectCE\”.
