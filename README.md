@@ -25,6 +25,7 @@ This software runs on Windows CE based handheld devices and collects coordinates
 * If you want to improve accuracy of position data, you can average coordinates and heights over any period of time. To do so, press the “Start” button. Now averaged position data is presented and a timer shows the averaging time in seconds. When the solution is “Fix”, no improvement will be achieved after a period of about 40 seconds, which you can tell from the third decimal place (mm) not changing anymore.
 
 <img align="right" src="https://user-images.githubusercontent.com/21182528/65902356-879ac480-e3ba-11e9-8b6a-19cd81ec447f.jpg">
+
 * If a “Fix” position is lost and solution downgrades to “Float” or “Singe”, averaging will stop and a warning is shown. This prevents collecting position data with a quality worse than “Fix”.
 * After “Stop” has been pressed, averaging will freeze und you get the opportunity to copy the result for further usage. You can do this by pressing “Copy” next to the value, which is then copied to the clipboard. You can then paste it to another application running on the same device. If you use TopSURV 8 and you want to create a new point while performing a resection, copy and paste can be automated by pressing the “New” button, which is very convenient und saves some time. Just make sure, you are in the TopSURV resection dialog before starting the macro. By pressing the + od – button you can change the point number, which will be created in TopSURV.
 
