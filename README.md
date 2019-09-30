@@ -7,4 +7,9 @@ This software runs on Windows CE based handheld devices and collects coordinates
 
 ### System requirements
 * ReachConnectCE.exe needs .NET Compact Framework 3.5 or newer to run. You need to install .NET Compact Framework 3.5 on FC-200 first. [Microsoft .NET Compact Framework 3.5](https://www.microsoft.com/en-us/download/details.aspx?id=65)
-* Your device needs an active Bluetooth radio. 
+* Your device needs an active Bluetooth radio.
+
+### Installing and Setting Up ReachConnectCE
+* Copy all four files from folder “Program Files Windows CE” to any location on the field computer, for example “C:\Program Files\ReachConnectCE\”.
+* Use ReachView app, which is provided by Emlid, to determine the MAC address of Reach RS+ Bluetooth radio. Go to the Bluetooth tab, set Bluetooth to ON and check “Always discoverable” ON. The device MAC is then shown in the format 12:34:56:78:90:AB. Copy the MAC address and paste it to the file “mac.txt”. It is used for pairing Reach RS+ and the field computer. 
+* Run ReachConnectCE by clicking the file ReachConnectCE.exe.
