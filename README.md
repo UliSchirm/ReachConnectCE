@@ -14,3 +14,9 @@ This software runs on Windows CE based handheld devices and collects coordinates
 * Use ReachView app, which is provided by Emlid, to determine the MAC address of Reach RS+ Bluetooth radio. Go to the Bluetooth tab, set Bluetooth to ON and check “Always discoverable” ON. The device MAC is then shown in the format 12:34:56:78:90:AB. Copy the MAC address and paste it to the file “mac.txt”. It is used for pairing Reach RS+ and the field computer.
 * Go to “Position output” tab in ReachView, check Output 1 ON via Bluetooth, output format: LLH.
 * Run ReachConnectCE by clicking the file "ReachConnectCE.exe".
+
+### Using ReachConnectCE
+* When starting ReachConnectCE, first another software will launch in background, it is called “HookKeys”. HookKeys enables you to conveniently toggle between ReachConnectCE and TopSURV by simply pressing the “Home” button on FC-200. It also shows/hides the software input panel (keyboard) by pressing the “Down” button.
+* After ReachConnectCE is started will try to establish a Bluetooth connection to Reach RS+, which is defined by the MAC address in “mac.txt”.
+* When Bluetooth connection is established, coordinates will be transformed to UTM, which is most common at least among Germany when performing surveying tasks. UTM coordinates and heights are shown in live view. UTM zone is also calculated and shown, as well as the solution status “Singe”, “Float” or “Fix”.
+
