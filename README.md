@@ -7,4 +7,4 @@ This software runs on Windows CE based handheld devices and collects coordinates
 
 ### System requirements
 * ReachConnectCE.exe needs .NET Compact Framework 3.5 or newer to run. You need to install .NET Compact Framework 3.5 on FC-200 first. [Microsoft .NET Compact Framework 3.5](https://www.microsoft.com/en-us/download/details.aspx?id=65)
-
+* Your device needs an active Bluetooth radio. 
