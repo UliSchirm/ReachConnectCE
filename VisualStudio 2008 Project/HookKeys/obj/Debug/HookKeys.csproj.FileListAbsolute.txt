@@ -1,0 +1,16 @@
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\HookKeys\HookKeys\bin\Debug\HookKeys.exe
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\HookKeys\HookKeys\bin\Debug\HookKeys.pdb
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\HookKeys\HookKeys\obj\Debug\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\HookKeys\HookKeys\obj\Debug\HookKeys.Form1.resources
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\HookKeys\HookKeys\obj\Debug\HookKeys.Properties.Resources.resources
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\HookKeys\HookKeys\obj\Debug\HookKeys.csproj.GenerateResource.Cache
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\HookKeys\HookKeys\obj\Debug\HookKeys.exe
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\HookKeys\HookKeys\obj\Debug\HookKeys.pdb
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\HookKeys_V2\HookKeys\bin\Debug\HookKeys.exe
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\HookKeys_V2\HookKeys\bin\Debug\HookKeys.pdb
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\HookKeys_V2\HookKeys\obj\Debug\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\HookKeys_V2\HookKeys\obj\Debug\HookKeys.Form1.resources
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\HookKeys_V2\HookKeys\obj\Debug\HookKeys.Properties.Resources.resources
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\HookKeys_V2\HookKeys\obj\Debug\HookKeys.csproj.GenerateResource.Cache
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\HookKeys_V2\HookKeys\obj\Debug\HookKeys.exe
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\HookKeys_V2\HookKeys\obj\Debug\HookKeys.pdb
