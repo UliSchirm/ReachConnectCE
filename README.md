@@ -38,7 +38,7 @@ ReachConnectCE is optimized for Topcon FC-200 field computers and the TopSURV 8 
 
 <img align="right" src="https://user-images.githubusercontent.com/21182528/65940985-34605a80-e42a-11e9-9642-652b856e0aba.jpg">
                         
-Many older books dealing with Visual C# 2008 contained a CD ROM with the 90-day trial version of Visual Studio 2008 Pro. A German version for example can be found on a CD ROM, which was sold with the Book “Visual C# 2008” (Addison-Wesley, ISBN-13: 978-3827326416).
+* Many older books dealing with Visual C# 2008 contained a CD ROM with the 90-day trial version of Visual Studio 2008 Pro. A German version for example can be found on a CD ROM, which was sold with the Book “Visual C# 2008” (Addison-Wesley, ISBN-13: 978-3827326416).
 * The toughest part in this software project was getting the Bluetooth stack work in Compact Framework 3.5. According my research there is basically just on option: The use of 32feet.NET.3.5.0 library. It is pretty well documented and can be downloaded from NuGet: [32feet.NET](https://www.nuget.org/packages/32feet.NET)
 The package contains a file named “\32feet.net.3.5.0\lib\net-cf\InTheHand.Net.Personal.dll”. After installation of VisualStudion 2008 copy this file to: “C:\Programme\Microsoft.NET\SDK\CompactFramework\v3.5\WindowsCE\InTheHand.Net.Personal.dll”. Now you can reference InTheHand.Net.Personal.dll in your VisualStudio 2008 project.
 An important reference for me to understanding how InTheHand.Net.Personal works was a German article which is still available on heise.de: [Blaues im Netz](https://www.heise.de/ix/artikel/Blaues-im-Netz-794702.html)
