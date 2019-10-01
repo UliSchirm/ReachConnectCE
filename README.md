@@ -36,7 +36,7 @@ ReachConnectCE is optimized for Topcon FC-200 field computers and the TopSURV 8 
 ## Information for developers
 * If you want to customize this software for any device that runs Windows CE, you need an IDE which supports the Compact Framework 3.5. The latest IDE from Microsoft that supported Windows CE was VisualStudio 2008 Professional. Unfortunately, the download is no longer available at Microsoft.com. But you still can find a 90-day trial version of Visual Studio 2008 Pro around the Internet, you want to search a file named: “VS2008ProEdition90dayTrialENUX1435622.iso”.
 
-<img align="right" src="https://user-images.githubusercontent.com/21182528/65940985-34605a80-e42a-11e9-9642-652b856e0aba.jpg>
+<img align="right" src="https://user-images.githubusercontent.com/21182528/65940985-34605a80-e42a-11e9-9642-652b856e0aba.jpg">
                         
 Many older books dealing with Visual C# 2008 contained a CD ROM with the 90-day trial version of Visual Studio 2008 Pro. A German version for example can be found on a CD ROM, which was sold with the Book “Visual C# 2008” (Addison-Wesley, ISBN-13: 978-3827326416).
 * The toughest part in this software project was getting the Bluetooth stack work in Compact Framework 3.5. According my research there is basically just on option: The use of 32feet.NET.3.5.0 library. It is pretty well documented and can be downloaded from NuGet: [32feet.NET](https://www.nuget.org/packages/32feet.NET)
